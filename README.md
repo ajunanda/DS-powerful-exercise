@@ -1,7 +1,6 @@
 # hello-world
 
+Contents of this repo are based on people's work, yet I did several changes on them.
 
-I am newbie to this Github and Git things. So, let's do it.
-This is my first repository for learning Github fro the first time only. All the best!
-
+Enjoy!
 
